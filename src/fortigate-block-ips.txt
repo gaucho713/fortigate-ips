@@ -2,7 +2,7 @@
 # Please do not delete this file.
 # This list is constantly updated with security threats and the firewall blocks them
 # Typically VPN hubs that are actively used by attackers in other countries
-# File Version : 2025.03.26
+# File Version : 2025.04.26
 # 2025.03.26 --- Added Stark Network ASN 44477 and Nubes, LLC ASN 400021
 # 174.207.104.0/24 Verizon Network -- Hot Spot
 2.56.126.0/24
@@ -4846,3 +4846,8 @@
 217.197.161.0/24
 217.197.162.0/24
 217.9.250.0/24
+23.160.24.0/24
+23.168.216.0/24
+23.159.216.0/24
+146.70.116.0/24
+185.24.11.0/24
