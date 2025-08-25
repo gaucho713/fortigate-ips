@@ -2,8 +2,9 @@
 # Please do not delete this file.
 # This list is constantly updated with security threats and the firewall blocks them
 # Typically VPN hubs that are actively used by attackers in other countries
-# File Version : 2025.08.15
+# File Version : 2025.08.25
 #
+# 2025.08.25 --- Add AS39378 - servinga GmbH
 # 2025.08.14 --- Add 154.16.49.0/24 Cogent Solutions - FREEDOMTECH SOLUTIONS LIMITED - Flagged as Abusive by IPinfo
 # 2025.08.14 --- Add AS42708 - GleSS AB & AS200220 - servinga GmbH & AS51395 - Datasource AG
 # 2025.07.23 --- Add AS4213 - Krypt Technologies
@@ -10229,3 +10230,10 @@
 217.197.161.0/24
 217.197.162.0/24
 217.9.250.0/24
+79.132.130.0/23
+91.241.93.0/24
+185.90.162.0/24
+185.158.251.0/24
+185.212.44.0/22
+185.219.220.0/22
+194.76.226.0/24
