@@ -27,7 +27,6 @@
 # 2025.03.26 --- Added Stark Network ASN 44477 and Nubes, LLC ASN 400021
 # 174.207.104.0/24 Verizon Network -- Hot Spot
 
-network
 2.56.126.0/24
 2.56.118.0/24
 2.56.119.0/24
