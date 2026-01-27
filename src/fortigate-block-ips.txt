@@ -4,7 +4,7 @@
 # Typically VPN hubs that are actively used by attackers in other countries
 # File Version : 2026.01.17
 
-# 2026.01.27 --- Add AS48721 - Flyservers S.A. && AS62563 - GLOBALTELEHOST Corp.
+# 2026.01.27 --- Add AS48721 - Flyservers S.A. && AS62563 - GLOBALTELEHOST Corp. && AS202412 - Omegatech LTD
 # 2026.01.14 --- Add AS202015  - HZ Hosting Ltd && 	AS29802  - HIVELOCITY, Inc.
 # 2025.12.17 --- Add AS14956 - RouterHosting LLC (Cloudzy)
 # 2025.12.11 --- Add AS212027 - PebbleHost Ltd
@@ -13988,3 +13988,14 @@
 192.102.254.0/23
 192.166.226.0/24
 193.108.58.0/24
+45.74.40.0/24
+45.132.180.0/24
+91.92.240.0/24
+91.92.241.0/24
+91.92.242.0/23
+94.26.38.0/24
+94.154.35.0/24
+158.94.208.0/23
+158.94.210.0/23
+178.16.52.0/23
+178.16.54.0/23
