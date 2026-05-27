@@ -37,45 +37,6 @@
 # WHITELIST
 # 174.207.104.0/24 Verizon Network -- Hot Spot
 
-# This file is accessed by the Fortinet FortiGate firewalls
-# Please do not delete this file.
-# This list is constantly updated with security threats and the firewall blocks them
-# Typically VPN hubs that are actively used by attackers in other countries
-# File Version : 2026.05.18
-
-# 2026.05.27 --- Add AS214036 - UltraHost && AS62240 - Clouvider && AS212238 — Datacamp Limited && AS19318 — Interserver, Inc
-# 2026.03.18 --- Add AS211736  - FOP Dmytro Nedilskyi
-# 2026.03.18 --- Add AS14956 - RouterHosting LLC && AS214238 – HOST TELECOM LTD && AS209702  - SOLDATOV ALEXEY VALEREVICH
-# 2026.02.18 --- Dedup'd and Summarized all small subnets to /24's
-# 2026.02.04 --- Add AS395092 - Shock Hosting LLC
-# 2026.01.28 --- Add AS4713 - NTT DOCOMO BUSINESS,Inc.
-# 2026.01.27 --- Add AS48721 - Flyservers S.A. && AS62563 - GLOBALTELEHOST Corp. && AS202412 - Omegatech LTD
-# 2026.01.14 --- Add AS202015  - HZ Hosting Ltd && 	AS29802  - HIVELOCITY, Inc.
-# 2025.12.17 --- Add AS14956 - RouterHosting LLC (Cloudzy)
-# 2025.12.11 --- Add AS212027 - PebbleHost Ltd
-# 2025.11.19 --- Add AS200373 - 3xK Tech GmbH && AS204957 - GREEN FLOID LLC
-# 2025.10.22 --- Add AS204957 - GREEN FLOID LLC & AS395092 Shock Hosting LLC & AS214238 HOST TELECOM LTD UK
-# 2025.10.08 --- Add AS212228 - servinga GmbH & AS62240 - Clouvider
-# 2025.08.29 --- Add AS215540 - GLOBAL CONNECTIVITY SOLUTIONS LLP & AS214943 Railnet LLC
-# 2025.08.29 --- Add AS203020 - HostRoyale Technologies Pvt Ltd, AS40021 - Contabo Inc.
-# 2025.08.29 --- Add AS26548 - PureVoltage Hosting Inc, AS136557 - Host Universal Pty Ltd
-# 2025.08.28 --- Add AS137409 - GSL Networks Pty LTD
-# 2025.08.28 --- Add AS51395 - Datasource AG & AS42708 - GleSYS AB & AS4213 - Krypt Technologies
-# 2025.08.25 --- Add AS39378 - servinga GmbH
-# 2025.08.14 --- Add 154.16.49.0/24 Cogent Solutions - FREEDOMTECH SOLUTIONS LIMITED - Flagged as Abusive by IPinfo
-# 2025.08.14 --- Add AS42708 - GleSS AB & AS200220 - servinga GmbH & AS51395 - Datasource AG
-# 2025.07.23 --- Add AS4213 - Krypt Technologies
-# 2025.07.09 --- Add AS263821 - Soluciones Favorables & AS55286 - B2 Net Solutions Inc. & AS263829 - HOST PARA TU VIDA S.A.
-# 2025.07.09 --- Add AS398712 - ISPCONNECTED CORP & AS62240 - Clouvider & AS214238 - HOST TELECOM LTD
-# 2025.07.07 --- Add Tier.Net Technologies LLC - AS397423
-# 2025.07.02 --- Add Eonix Corporation - AS62904
-# 2025.05.07 --- Add tzulo AS11878
-# 2025.04.26 --- Add m247 AS9009 & Datacamp CDN77 AS60068
-# 2025.03.26 --- Added Stark Network ASN 44477 and Nubes, LLC ASN 400021
-
-# WHITELIST
-# 174.207.104.0/24 Verizon Network -- Hot Spot
-
 2.26.157.0/24
 2.26.164.0/24
 2.26.253.0/24
